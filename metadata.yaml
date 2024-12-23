@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '37037'
     url: http://www.gutenberg.org/2009/agents/37037
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Ely_Webb
+covers:
+- cover_type: archival
+  image_path: 74791-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Abbie Farwell
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5282
     wikipedia: https://en.wikipedia.org/wiki/Abbie_Farwell_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74791#Round-Robin
 gutenberg_issued: '2024-11-24'
 gutenberg_type: Text
 identifiers:
